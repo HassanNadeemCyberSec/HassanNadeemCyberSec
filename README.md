@@ -1,8 +1,8 @@
 # Hi, I'm Hassan 👋
 **SOC Analyst | Threat Detection & Hunting | Incident Response | Vulnerability Management** — Berlin, Germany
 
-I'm a security analyst with ~2.5 years of SOC experience in a critical-infrastructure
-environment, monitoring and triaging alerts across SIEM, firewall, NDR, EDR and
+I'm a security analyst with 2.5 years of security experience, including nearly 2 years in a SOC
+monitoring a critical-infrastructure environment across SIEM, firewall, NDR, EDR and
 vulnerability management platforms. I hold an MSc in Cyber Security (thesis: security
 analysis and risk mitigation in CI/CD DevSecOps pipelines) and the ISC2 CC certification.
 
